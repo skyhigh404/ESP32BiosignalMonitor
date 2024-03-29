@@ -1,0 +1,6 @@
+[submodule "esp32/components/websocket"]
+	path = esp32/components/websocket
+	url = https://github.com/Molorius/esp32-websocket.git
+[submodule "esp32/components/wavelib"]
+	path = esp32/components/wavelib
+	url = https://github.com/rafat/wavelib
